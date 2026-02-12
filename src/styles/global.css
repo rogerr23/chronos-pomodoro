@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+  font-size: 30px;
+}
+
+h1 {
+  color: var(--primary);
+}
+
+p {
+  color: var(--primary);
+}
